@@ -1,6 +1,9 @@
 Content
 The values are been extracted from audios taken from the notorious datasets: RAVDESS, CREMA-D, TESS and SAVEE. Linked respectively:
 
+FEATURES:
+https://www.kaggle.com/datasets/cracc97/features
+
 1. RAV
 https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 
